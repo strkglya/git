@@ -1,4 +1,9 @@
-
+//
+//  ViewController.swift
+//  hw7
+//
+//  Created by Александра Среднева on 6.01.24.
+//
 
 import UIKit
 
